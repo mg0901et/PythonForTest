@@ -1,0 +1,2 @@
+Hello, World with 'with' keyword!
+This is a test file using 'with'.
